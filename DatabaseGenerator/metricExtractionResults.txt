@@ -1,0 +1,26 @@
+insert n on workspace
+
+min(prec(:,n))
+mean(prec(:,n))
+max(prec(:,n))
+std(prec(:,n))
+
+min(rec(:,n))
+mean(rec(:,n))
+max(rec(:,n))
+std(rec(:,n))
+
+min(f1(:,n))
+mean(f1(:,n))
+max(f1(:,n))
+std(f1(:,n))
+
+min(f1g)
+mean(f1g)
+max(f1g)
+std(f1g)
+
+min(acc)
+mean(acc)
+max(acc)
+std(acc)
